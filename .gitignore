@@ -1,0 +1,12 @@
+# DW Dreamweaver added files
+_notes
+_compareTemp
+configs/
+dwsync.xml
+dw_php_codehinting.config
+*.mno
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# Windows shortcuts
+*.lnk
