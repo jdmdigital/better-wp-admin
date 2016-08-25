@@ -1,0 +1,5 @@
+BASIC DEVELOPMENT NOTES
+
+Here's a tutorial for building this: https://codex.wordpress.org/Creating_Admin_Themes
+
+Other notes will be here eventually with ideas and feature suggestions for ourselves.  Eventually, we'll move all this to "Issues", but for now, let's stick with a notes doc.
