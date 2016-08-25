@@ -4,7 +4,7 @@
  * Plugin Name: Better WP Admin
  * Plugin URI: https://github.com/jdmdigital/better-wp-admin/
  * Description: A WordPress Custom Admin Plugin for customizing the WordPress backend to be more intuitive and easier to use for casual users (e.g. better). - Upload and Activate.
- * Version: 1.2
+ * Version: 0.1
  * Author: JDM Digital
  * Author URI: http://jdmdigital.co
  * License: GPLv2 or later
